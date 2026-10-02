@@ -1,0 +1,14 @@
+{
+  "name": "motocare-api",
+  "version": "1.0.0",
+  "description": "API REST para control de kilometraje y servicios de mantenimiento de motocicletas.",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}

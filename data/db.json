@@ -1,0 +1,17 @@
+{
+  "motos": [
+    {
+      "id": "1704200000000",
+      "marca": "Bajaj",
+      "modelo": "Pulsar NS400Z",
+      "kilometraje": 1200,
+      "historial_mantenimiento": [
+        {
+          "fecha": "2026-09-15",
+          "servicio": "Cambio de aceite de asentamiento",
+          "km_realizado": 1000
+        }
+      ]
+    }
+  ]
+}
